@@ -1,0 +1,11 @@
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\DeckOfIdeas.json
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\TestDeckOfIdeas.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\TestDeckOfIdeas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\Aunty Paladins Deck of Many Ideas.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\Newtonsoft.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\Aunty Paladins Deck of Many Ideas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Release\Newtonsoft.Json.xml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Release\TestDeckOfIdeas.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Release\TestDeckOfIdeas.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Release\TestDeckOfIdeas.pdb

@@ -1,0 +1,10 @@
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Debug\TestDeckOfIdeas.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\TestDeckOfIdeas.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\TestDeckOfIdeas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Debug\TestDeckOfIdeas.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\obj\Debug\TestDeckOfIdeas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\DeckOfIdeas.json
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\Aunty Paladins Deck of Many Ideas.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\TestDeckOfIdeas\bin\Debug\Aunty Paladins Deck of Many Ideas.pdb

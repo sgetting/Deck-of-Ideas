@@ -1,0 +1,33 @@
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladin's Deck of Many Ideas.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\MainWindow.baml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\App.g.cs
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\DeckOfIdeas.Properties.Resources.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladin's Deck of Many Ideas.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Aunty Paladins Deck of Many Ideas.exe.config
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\DeckOfIdeas.json
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Aunty Paladins Deck of Many Ideas.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Aunty Paladins Deck of Many Ideas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladins Deck of Many Ideas_MarkupCompile.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladins Deck of Many Ideas.g.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladins Deck of Many Ideas.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladins Deck of Many Ideas.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\obj\Debug\Aunty Paladins Deck of Many Ideas_MarkupCompile.lref
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll

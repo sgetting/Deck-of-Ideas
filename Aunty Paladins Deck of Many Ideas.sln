@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aunty Paladin's Deck of Many Ideas", "Aunty Paladin's Deck of Many Ideas\Aunty Paladin's Deck of Many Ideas.csproj", "{ED42F66A-1F37-42A4-9454-6FDE6F338E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDeckOfIdeas", "TestDeckOfIdeas\TestDeckOfIdeas.csproj", "{8BA9235B-4D9D-4B76-9A56-887252003F86}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Aunty Paladin's Deck of Many Ideas.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED42F66A-1F37-42A4-9454-6FDE6F338E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED42F66A-1F37-42A4-9454-6FDE6F338E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED42F66A-1F37-42A4-9454-6FDE6F338E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED42F66A-1F37-42A4-9454-6FDE6F338E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA9235B-4D9D-4B76-9A56-887252003F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA9235B-4D9D-4B76-9A56-887252003F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA9235B-4D9D-4B76-9A56-887252003F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA9235B-4D9D-4B76-9A56-887252003F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
